@@ -10,7 +10,7 @@ import zipfile
 
 # Page title
 st.set_page_config(page_title='ML Modelador', page_icon='🤖')
-st.title('🤖 ML Model Building')
+st.title('🤖 ML Modelador')
 
 with st.expander('About this app'):
   st.markdown('**What can this app do?**')
